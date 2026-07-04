@@ -66,9 +66,9 @@ Currently, I'm building end-to-end analytics projects while continuously improvi
 
 ---
 
-## Languages
+##  Languages
 
-- 🇵🇪 Spanish — Native
+- 🇪🇸 Spanish — Native
 - 🇧🇷 Portuguese — Intermediate
 - 🇺🇸 English — Basic
 
@@ -77,17 +77,13 @@ Currently, I'm building end-to-end analytics projects while continuously improvi
 ## Connect with Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/bryan-chavez-data/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:bryan.velaisosa@sou.unaerp.edu.br">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/bryan-chavez-data/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bryan.velaisosa@sou.unaerp.edu.br">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
 </p>
 
 ---

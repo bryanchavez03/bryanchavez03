@@ -69,7 +69,7 @@ Currently, I'm building end-to-end analytics projects while continuously improvi
 ##  Languages
 
 - 🇪🇸 Spanish — Native
-- 🇧🇷 Portuguese — Intermediate
+- 🇧🇷 Portuguese — Avanzado
 - 🇺🇸 English — Basic
 
 ---
